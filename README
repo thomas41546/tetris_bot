@@ -1,4 +1,6 @@
-These are files related to a Tetris AI and bot.
+These are files related to a Tetris AI and bot. You
+can see it in action here:
+    http://www.youtube.com/watch?v=8ewC6dZ8uw4
 
 Contents:
 	tetris/Piece.java
